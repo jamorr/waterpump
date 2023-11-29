@@ -17,3 +17,4 @@ dependencies:
   - pip
   - pip:
     - feather-format  # Install feather-format using pip if not available via Conda
+    - plotly
